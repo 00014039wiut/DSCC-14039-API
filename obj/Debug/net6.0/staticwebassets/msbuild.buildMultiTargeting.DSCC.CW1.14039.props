@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DSCC.CW1.14039.props" />
+</Project>
