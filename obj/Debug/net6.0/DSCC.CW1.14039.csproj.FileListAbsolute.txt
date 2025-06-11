@@ -268,7 +268,6 @@ D:\DSCC.CW1.14039\DSCC.CW1.14039\obj\Debug\net6.0\staticwebassets.build.json
 D:\DSCC.CW1.14039\DSCC.CW1.14039\obj\Debug\net6.0\staticwebassets.build.json.cache
 D:\DSCC.CW1.14039\DSCC.CW1.14039\obj\Debug\net6.0\staticwebassets.development.json
 D:\DSCC.CW1.14039\DSCC.CW1.14039\obj\Debug\net6.0\staticwebassets.build.endpoints.json
-D:\DSCC.CW1.14039\DSCC.CW1.14039\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 D:\DSCC.CW1.14039\DSCC.CW1.14039\obj\Debug\net6.0\DSCC.CW1.63D001D1.Up2Date
 D:\DSCC.CW1.14039\DSCC.CW1.14039\obj\Debug\net6.0\DSCC.CW1.14039.dll
 D:\DSCC.CW1.14039\DSCC.CW1.14039\obj\Debug\net6.0\refint\DSCC.CW1.14039.dll
